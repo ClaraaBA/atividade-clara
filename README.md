@@ -2,6 +2,6 @@
 
 # Readme.md
 ## Professora Camila
-### Hoje tivemos a aula para concluir a atividade do teams
+### Na aula de hoje concluimos a atividade do teams
 
 [link](https:github.com)
